@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Madhura
-- 👀 I’m interested in Java,Python,Data Science.
+- 👀 I’m interested in Java,Python,Data Science,Web development.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking for internships.
 - 📫 How to reach me madhuradas10@gmail.com.
